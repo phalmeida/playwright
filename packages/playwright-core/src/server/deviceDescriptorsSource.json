@@ -8,6 +8,7 @@
     "deviceScaleFactor": 1,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Blackberry PlayBook landscape": {
@@ -19,6 +20,7 @@
     "deviceScaleFactor": 1,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "BlackBerry Z30": {
@@ -30,6 +32,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "BlackBerry Z30 landscape": {
@@ -41,6 +44,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Galaxy Note 3": {
@@ -52,6 +56,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Galaxy Note 3 landscape": {
@@ -63,6 +68,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Galaxy Note II": {
@@ -74,6 +80,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Galaxy Note II landscape": {
@@ -85,6 +92,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Galaxy S III": {
@@ -96,6 +104,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Galaxy S III landscape": {
@@ -107,6 +116,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Galaxy S5": {
@@ -118,6 +128,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Galaxy S5 landscape": {
@@ -129,6 +140,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Galaxy S8": {
@@ -140,6 +152,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Galaxy S8 landscape": {
@@ -151,6 +164,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Galaxy S9+": {
@@ -162,6 +176,7 @@
     "deviceScaleFactor": 4.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Galaxy S9+ landscape": {
@@ -173,6 +188,7 @@
     "deviceScaleFactor": 4.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Galaxy Tab S4": {
@@ -184,6 +200,7 @@
     "deviceScaleFactor": 2.25,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Galaxy Tab S4 landscape": {
@@ -195,6 +212,7 @@
     "deviceScaleFactor": 2.25,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "iPad (gen 5)": {
@@ -206,6 +224,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPad (gen 5) landscape": {
@@ -217,6 +236,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPad (gen 6)": {
@@ -228,6 +248,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPad (gen 6) landscape": {
@@ -239,6 +260,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPad (gen 7)": {
@@ -250,6 +272,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPad (gen 7) landscape": {
@@ -261,6 +284,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPad Mini": {
@@ -272,6 +296,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPad Mini landscape": {
@@ -283,6 +308,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPad Pro 11": {
@@ -294,6 +320,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPad Pro 11 landscape": {
@@ -305,6 +332,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 6": {
@@ -316,6 +344,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 6 landscape": {
@@ -327,6 +356,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 6 Plus": {
@@ -338,6 +368,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 6 Plus landscape": {
@@ -349,6 +380,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 7": {
@@ -360,6 +392,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 7 landscape": {
@@ -371,6 +404,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 7 Plus": {
@@ -382,6 +416,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 7 Plus landscape": {
@@ -393,6 +428,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 8": {
@@ -404,6 +440,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 8 landscape": {
@@ -415,6 +452,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 8 Plus": {
@@ -426,6 +464,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 8 Plus landscape": {
@@ -437,6 +476,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone SE": {
@@ -448,6 +488,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone SE landscape": {
@@ -459,6 +500,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone X": {
@@ -470,6 +512,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone X landscape": {
@@ -481,6 +524,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone XR": {
@@ -492,6 +536,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone XR landscape": {
@@ -503,6 +548,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 11": {
@@ -518,6 +564,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 11 landscape": {
@@ -533,6 +580,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 11 Pro": {
@@ -548,6 +596,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 11 Pro landscape": {
@@ -563,6 +612,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 11 Pro Max": {
@@ -578,6 +628,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 11 Pro Max landscape": {
@@ -593,6 +644,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 12": {
@@ -608,6 +660,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 12 landscape": {
@@ -623,6 +676,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 12 Pro": {
@@ -638,6 +692,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 12 Pro landscape": {
@@ -653,6 +708,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 12 Pro Max": {
@@ -668,6 +724,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 12 Pro Max landscape": {
@@ -683,6 +740,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 12 Mini": {
@@ -698,6 +756,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 12 Mini landscape": {
@@ -713,6 +772,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 13": {
@@ -728,6 +788,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 13 landscape": {
@@ -743,6 +804,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 13 Pro": {
@@ -758,6 +820,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 13 Pro landscape": {
@@ -773,6 +836,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 13 Pro Max": {
@@ -788,6 +852,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 13 Pro Max landscape": {
@@ -803,6 +868,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 13 Mini": {
@@ -818,6 +884,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 13 Mini landscape": {
@@ -833,6 +900,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 14": {
@@ -848,6 +916,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 14 landscape": {
@@ -863,6 +932,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 14 Plus": {
@@ -878,6 +948,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 14 Plus landscape": {
@@ -893,6 +964,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 14 Pro": {
@@ -908,6 +980,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 14 Pro landscape": {
@@ -923,6 +996,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 14 Pro Max": {
@@ -938,6 +1012,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 14 Pro Max landscape": {
@@ -953,6 +1028,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 15": {
@@ -968,6 +1044,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 15 landscape": {
@@ -983,6 +1060,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 15 Plus": {
@@ -998,6 +1076,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 15 Plus landscape": {
@@ -1013,6 +1092,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 15 Pro": {
@@ -1028,6 +1108,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 15 Pro landscape": {
@@ -1043,6 +1124,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 15 Pro Max": {
@@ -1058,6 +1140,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "iPhone 15 Pro Max landscape": {
@@ -1073,6 +1156,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Kindle Fire HDX": {
@@ -1084,6 +1168,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Kindle Fire HDX landscape": {
@@ -1095,6 +1180,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "LG Optimus L70": {
@@ -1106,6 +1192,7 @@
     "deviceScaleFactor": 1.25,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "LG Optimus L70 landscape": {
@@ -1117,6 +1204,7 @@
     "deviceScaleFactor": 1.25,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Microsoft Lumia 550": {
@@ -1128,6 +1216,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Microsoft Lumia 550 landscape": {
@@ -1139,6 +1228,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Microsoft Lumia 950": {
@@ -1150,6 +1240,7 @@
     "deviceScaleFactor": 4,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Microsoft Lumia 950 landscape": {
@@ -1161,6 +1252,7 @@
     "deviceScaleFactor": 4,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 10": {
@@ -1172,6 +1264,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 10 landscape": {
@@ -1183,6 +1276,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 4": {
@@ -1194,6 +1288,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 4 landscape": {
@@ -1205,6 +1300,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 5": {
@@ -1216,6 +1312,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 5 landscape": {
@@ -1227,6 +1324,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 5X": {
@@ -1238,6 +1336,7 @@
     "deviceScaleFactor": 2.625,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 5X landscape": {
@@ -1249,6 +1348,7 @@
     "deviceScaleFactor": 2.625,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 6": {
@@ -1260,6 +1360,7 @@
     "deviceScaleFactor": 3.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 6 landscape": {
@@ -1271,6 +1372,7 @@
     "deviceScaleFactor": 3.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 6P": {
@@ -1282,6 +1384,7 @@
     "deviceScaleFactor": 3.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 6P landscape": {
@@ -1293,6 +1396,7 @@
     "deviceScaleFactor": 3.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 7": {
@@ -1304,6 +1408,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nexus 7 landscape": {
@@ -1315,6 +1420,7 @@
     "deviceScaleFactor": 2,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nokia Lumia 520": {
@@ -1326,6 +1432,7 @@
     "deviceScaleFactor": 1.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nokia Lumia 520 landscape": {
@@ -1337,6 +1444,7 @@
     "deviceScaleFactor": 1.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Nokia N9": {
@@ -1348,6 +1456,7 @@
     "deviceScaleFactor": 1,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Nokia N9 landscape": {
@@ -1359,6 +1468,7 @@
     "deviceScaleFactor": 1,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "webkit"
   },
   "Pixel 2": {
@@ -1370,6 +1480,7 @@
     "deviceScaleFactor": 2.625,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 2 landscape": {
@@ -1381,6 +1492,7 @@
     "deviceScaleFactor": 2.625,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 2 XL": {
@@ -1392,6 +1504,7 @@
     "deviceScaleFactor": 3.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 2 XL landscape": {
@@ -1403,6 +1516,7 @@
     "deviceScaleFactor": 3.5,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 3": {
@@ -1414,6 +1528,7 @@
     "deviceScaleFactor": 2.75,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 3 landscape": {
@@ -1425,6 +1540,7 @@
     "deviceScaleFactor": 2.75,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 4": {
@@ -1436,6 +1552,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 4 landscape": {
@@ -1447,6 +1564,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 4a (5G)": {
@@ -1462,6 +1580,7 @@
     "deviceScaleFactor": 2.63,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 4a (5G) landscape": {
@@ -1477,6 +1596,7 @@
     "deviceScaleFactor": 2.63,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 5": {
@@ -1492,6 +1612,7 @@
     "deviceScaleFactor": 2.75,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 5 landscape": {
@@ -1507,6 +1628,7 @@
     "deviceScaleFactor": 2.75,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 7": {
@@ -1522,6 +1644,7 @@
     "deviceScaleFactor": 2.625,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Pixel 7 landscape": {
@@ -1537,6 +1660,7 @@
     "deviceScaleFactor": 2.625,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Moto G4": {
@@ -1548,6 +1672,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Moto G4 landscape": {
@@ -1559,6 +1684,7 @@
     "deviceScaleFactor": 3,
     "isMobile": true,
     "hasTouch": true,
+    "ariaChildren": true,
     "defaultBrowserType": "chromium"
   },
   "Desktop Chrome HiDPI": {

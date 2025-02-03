@@ -92,6 +92,7 @@ it('should work with aria-controls with nested elements', async ({ page }) => {
   `);
 
   const tabPanel = page.getByRole('tablist').getByRole('tabpanel', { ariaChildren: true }).getByText('Panel 1 Content');
+  await page.pause();
   await expect(tabPanel).toHaveText('Panel 1 Content');
 });
 

@@ -24,6 +24,7 @@ type DeviceDescriptor = {
   deviceScaleFactor: number,
   isMobile: boolean,
   hasTouch: boolean,
+  ariaChildren: boolean,
   defaultBrowserType: 'chromium' | 'firefox' | 'webkit'
 };
 type Devices = { [name: string]: DeviceDescriptor };

@@ -207,6 +207,7 @@ export module Protocol {
     export type setTouchOverrideParameters = {
       browserContextId?: string;
       hasTouch: boolean|null;
+      ariaChildren: boolean|null;
     };
     export type setTouchOverrideReturnValue = void;
     export type setDefaultViewportParameters = {

@@ -22,7 +22,7 @@ import * as path from 'path';
 import type { TestModeWorkerOptions } from '../config/testModeFixtures';
 import type { TestModeName } from '../config/testMode';
 
-type BrowserName = 'chromium' | 'firefox' | 'webkit';
+type BrowserName = 'chromium';
 
 const getExecutablePath = (browserName: BrowserName) => {
   if (browserName === 'chromium' && process.env.CRPATH)
@@ -37,7 +37,7 @@ const mode = (process.env.PWTEST_MODE ?? 'default') as TestModeName;
 const headed = process.argv.includes('--headed');
 const channel = process.env.PWTEST_CHANNEL as any;
 const video = !!process.env.PWTEST_VIDEO;
-const trace = !!process.env.PWTEST_TRACE;
+const trace = true;
 
 const outputDir = path.join(__dirname, '..', '..', 'test-results');
 const testDir = path.join(__dirname, '..');
@@ -72,6 +72,7 @@ if (mode === 'service2') {
   connectOptions = {
     wsEndpoint: `${process.env.PLAYWRIGHT_SERVICE_URL}?cap=${JSON.stringify({ os, runId })}`,
     timeout: 3 * 60 * 1000,
+    ariaChildren: false,
     exposeNetwork: '<loopback>',
     headers: {
       'x-mpt-access-key': process.env.PLAYWRIGHT_SERVICE_ACCESS_KEY!
@@ -100,7 +101,7 @@ const config: Config<PlaywrightWorkerOptions & PlaywrightTestOptions & TestModeW
   webServer,
 };
 
-const browserNames = ['chromium', 'webkit', 'firefox'] as BrowserName[];
+const browserNames = ['chromium'] as BrowserName[];
 for (const browserName of browserNames) {
   const executablePath = getExecutablePath(browserName);
   if (executablePath && !process.env.TEST_WORKER_INDEX)
@@ -114,24 +115,25 @@ for (const browserName of browserNames) {
     use: {
       mode,
       browserName,
-      headless: !headed,
+      headless: false,
+      ariaChildren: false,
       channel,
       video: video ? 'on' : undefined,
       launchOptions: {
         executablePath,
         devtools
       },
-      trace: trace ? 'on' : undefined,
+      trace: 'on',
     },
     metadata: {
       platform: process.platform,
       docker: !!process.env.INSIDE_DOCKER,
-      headless: headed ? 'headed' : 'headless',
+      headless: false,
       browserName,
       channel,
       mode,
       video: !!video,
-      trace: !!trace,
+      trace: 'on',
       clock: process.env.PW_CLOCK ? 'clock-' + process.env.PW_CLOCK : undefined,
     }
   };

@@ -775,6 +775,7 @@ const defaultNewContextParamValues: channels.BrowserNewContextForReuseParams = {
   offline: false,
   isMobile: false,
   hasTouch: false,
+  ariaChildren: false,
   acceptDownloads: 'accept',
   strictSelectors: false,
   serviceWorkers: 'allow',

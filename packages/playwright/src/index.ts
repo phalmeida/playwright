@@ -127,6 +127,7 @@ const playwrightFixtures: Fixtures<TestFixtures, WorkerFixtures> = ({
   extraHTTPHeaders: [({ contextOptions }, use) => use(contextOptions.extraHTTPHeaders), { option: true }],
   geolocation: [({ contextOptions }, use) => use(contextOptions.geolocation), { option: true }],
   hasTouch: [({ contextOptions }, use) => use(contextOptions.hasTouch ?? false), { option: true }],
+  ariaChildren: [({ contextOptions }, use) => use(contextOptions.ariaChildren ?? false), { option: true }],
   httpCredentials: [({ contextOptions }, use) => use(contextOptions.httpCredentials), { option: true }],
   ignoreHTTPSErrors: [({ contextOptions }, use) => use(contextOptions.ignoreHTTPSErrors ?? false), { option: true }],
   isMobile: [({ contextOptions }, use) => use(contextOptions.isMobile ?? false), { option: true }],
@@ -157,6 +158,7 @@ const playwrightFixtures: Fixtures<TestFixtures, WorkerFixtures> = ({
     deviceScaleFactor,
     extraHTTPHeaders,
     hasTouch,
+                                     ariaChildren,
     geolocation,
     httpCredentials,
     ignoreHTTPSErrors,
@@ -189,6 +191,8 @@ const playwrightFixtures: Fixtures<TestFixtures, WorkerFixtures> = ({
       options.geolocation = geolocation;
     if (hasTouch !== undefined)
       options.hasTouch = hasTouch;
+    if (ariaChildren !== undefined)
+      options.ariaChildren = ariaChildren;
     if (httpCredentials !== undefined)
       options.httpCredentials = httpCredentials;
     if (ignoreHTTPSErrors !== undefined)

@@ -135,6 +135,9 @@ function getAriaChildren(element: Element, scope: SelectorRoot): Element[] {
   const ariaElements: Element[] = [];
   const ariaAttributes = ['aria-owns', 'aria-controls'];
 
+  debugger;
+
+  console.log('debugger');
   ariaAttributes.forEach(attr => {
     const ariaValue = element.getAttribute(attr);
     if (!ariaValue)

@@ -177,6 +177,8 @@ export class Locator implements api.Locator {
   }
 
   getByRole(role: string, options: ByRoleOptions = {}): Locator {
+    if (this._frame.page().context()._options.ariaChildren === true)
+      options.ariaChildren = true;
     return this.locator(getByRoleSelector(role, options));
   }
 
